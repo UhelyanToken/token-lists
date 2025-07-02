@@ -13,7 +13,7 @@
       "name": "Uhelyan Token",
       "symbol": "UHYT",
       "decimals": 18,
-      "logoURI": "ipfs://QmYourUploadedLogoHash"
+      "logoURI": "https://github.com/UhelyanToken/token-lists/blob/main/uhyt.png?raw=true"
     }
   ]
 }
