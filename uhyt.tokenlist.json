@@ -1,0 +1,19 @@
+{
+  "name": "Uhelyan Token List",
+  "timestamp": "2025-07-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xD6f0adEAcd67212C69d6d7a3c94598cA99053011",
+      "name": "Uhelyan Token",
+      "symbol": "UHYT",
+      "decimals": 18,
+      "logoURI": "ipfs://QmYourUploadedLogoHash"
+    }
+  ]
+}
